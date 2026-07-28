@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ccwhelper",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "/Users/christianjohnson/Claudecode/nh-ccw-concierge", "-l", "3000"],
+      "port": 3000
+    }
+  ]
+}
